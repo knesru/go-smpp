@@ -3,7 +3,7 @@ import (
 	"net"
 	"fmt"
 	"io"
-	"code.google.com/p/go-uuid/uuid"
+	"github.com/pborman/uuid"
 )
 
 type SmppServer struct {
